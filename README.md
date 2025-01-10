@@ -3,6 +3,7 @@
 This project is a part of the virtual Internship at AtliQ Technologies.
 
 Dashboard Link - https://app.powerbi.com/view?r=eyJrIjoiMjA1NzUyN2YtM2IwNy00YTFlLWFmMGEtMmI0NWRjZThiMjM2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=4bf1bb73411ccd8c0d68 
+
 Presentation Link - https://www.linkedin.com/feed/update/urn:li:ugcPost:7283370216879747072/
 
 Project Overview-
