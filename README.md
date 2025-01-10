@@ -26,25 +26,26 @@ Fact_premiums
 
 Fact_settlements
 
-Shiled Insurance Data Model
+Shield Insurance Data Model
+
 ![Screenshot 2025-01-05 142809](https://github.com/user-attachments/assets/549dbe79-5bc5-43f1-b966-b3d0ae4be1e8)
 
 Dashboard Overview -
 Home Page - When a user logs in for the first time, they will land on this page. From here, they can navigate to different pages.
-home page
-![Screenshot 2025-01-10 115344](https://github.com/user-attachments/assets/6bc32d17-23e1-40b7-a782-8f299e7d0dc4)
+
+home page - ![Screenshot 2025-01-10 115344](https://github.com/user-attachments/assets/6bc32d17-23e1-40b7-a782-8f299e7d0dc4)
 
 General Analysis - Provide an overview of essential insurance metrics, including monthly revenue and customer trends. Also age group and city segmentation.
-General Analysis
-![Screenshot 2025-01-10 122402](https://github.com/user-attachments/assets/5b7a333d-3442-43d6-9775-5ea80eb1d14f)
+
+General Analysis - ![Screenshot 2025-01-10 122402](https://github.com/user-attachments/assets/5b7a333d-3442-43d6-9775-5ea80eb1d14f)
 
 Sales Mode Analysis - Showcase sales performance metrics across different modes, including a revenue trend chart highlighting the sales channel that generated the highest revenue percentage.
-sales mode analysis
-![Screenshot 2025-01-10 122425](https://github.com/user-attachments/assets/4814ea49-84c8-4633-bc49-092aa9112536)
+
+sales mode analysis -![Screenshot 2025-01-10 122425](https://github.com/user-attachments/assets/4814ea49-84c8-4633-bc49-092aa9112536)
 
 Age Group Analysis - Demonstrate company revenue and customer performance by age group, including metrics for estimated settlement amounts, and policy preferences.
-age group analysis
-![Screenshot 2025-01-10 122443](https://github.com/user-attachments/assets/700a177d-8fff-4775-9aae-05560582b50f)
+
+age group analysis - ![Screenshot 2025-01-10 122443](https://github.com/user-attachments/assets/700a177d-8fff-4775-9aae-05560582b50f)
 
 Insights & Recommendations-
 Age Group Analysis:
